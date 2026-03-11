@@ -99,3 +99,5 @@ http://101.35.8.10:1111/962045223
 http://101.35.8.10:1111/962045226
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",辽宁影视剧频道
 http://101.35.8.10:1111/962067517
+#EXTINF:-1 tvg-name="Liaoning" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="咪咕央卫",辽宁卫视
+http://101.35.8.10:1111/630291707
