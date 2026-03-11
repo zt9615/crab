@@ -101,3 +101,39 @@ http://101.35.8.10:1111/962045226
 http://101.35.8.10:1111/962067517
 #EXTINF:-1 tvg-name="Liaoning" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="咪咕央卫",辽宁卫视
 http://101.35.8.10:1111/630291707
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="江苏移动",CCTV1
+http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="江苏移动",CCTV2
+http://ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="江苏移动",CCTV3
+http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="江苏移动",CCTV4
+http://ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="江苏移动",CCTV5
+http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5plus" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="江苏移动",CCTV5+
+http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="江苏移动",CCTV6
+http://ott.mobaibox.com/PLTV/3/224/3221228516/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="江苏移动",CCTV7
+http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="江苏移动",CCTV8
+http://ott.mobaibox.com/PLTV/3/224/3221228578/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="江苏移动",CCTV9
+http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="江苏移动",CCTV10
+http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="江苏移动",CCTV11
+http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="江苏移动",CCTV12
+http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="江苏移动",CCTV13
+http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="江苏移动",CCTV14
+http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="江苏移动",CCTV15
+http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="江苏移动",CCTV16
+http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="江苏移动",CCTV17
+http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
