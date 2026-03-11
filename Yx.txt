@@ -411,3 +411,181 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227105/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227157/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="辽宁移动(内)",优购物
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227335/index.m3u8
+#EXTINF:-1 tvg-name="-" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/-.png" group-title="精彩YY",笑傲江湖-电视剧
+https://live.ottiptv.cc/yy/1354936128
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",四位闺蜜继续在爱情与事业中寻找平衡
+https://live.ottiptv.cc/yy/1354931488
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",牧野诡事之赤丹珠
+https://live.ottiptv.cc/yy/1382736863
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",毒力觉醒的异能逆袭狂潮
+https://live.ottiptv.cc/yy/1354926735
+#EXTINF:-1 tvg-name="-" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/-.png" group-title="精彩YY",先锋之那时青春-热血年代
+https://live.ottiptv.cc/yy/1382736833
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",还原英雄最后的壮烈！
+https://live.ottiptv.cc/yy/1354930984
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",老夫少妻搞笑忘年恋
+https://live.ottiptv.cc/yy/1354932391
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",感人又搞笑，父爱创造奇迹
+https://live.ottiptv.cc/yy/1354932365
+#EXTINF:-1 tvg-name="~" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/~.png" group-title="精彩YY",铁道游击队~经典抗战剧
+https://live.ottiptv.cc/yy/1356051105
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",新木乃伊：古埃及公主复活的灾难对决
+https://live.ottiptv.cc/yy/1354936169
+#EXTINF:-1 tvg-name="-" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/-.png" group-title="精彩YY",海王-院线大片
+https://live.ottiptv.cc/yy/1354936142
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",丹尼尔·斯洛斯烧脑谜题
+https://live.ottiptv.cc/yy/1354936199
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",艾迪格里芬：经典就是我
+https://live.ottiptv.cc/yy/1354932409
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",巾帼枭雄之义海豪情
+https://live.ottiptv.cc/yy/1382736859
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",呆萌飞行员
+https://live.ottiptv.cc/yy/1354930968
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",亚洲笑星征服美国
+https://live.ottiptv.cc/yy/1382736920
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",狼叔终章，为守护变种人殊死一搏
+https://live.ottiptv.cc/yy/1382736913
+#EXTINF:-1 tvg-name="YY" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/YY.png" group-title="精彩YY",YY用户
+https://live.ottiptv.cc/yy/1382745182
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",紫霞仙子被揍了
+https://live.ottiptv.cc/yy/1382656234
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",雍正王朝
+https://live.ottiptv.cc/yy/1459714870
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",的直播间
+https://live.ottiptv.cc/yy/1354129442
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",悬疑武侠电影—九门
+https://live.ottiptv.cc/yy/1382828768
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",萌妹特攻队爆笑出击
+https://live.ottiptv.cc/yy/1354930971
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",金牌喜剧班
+https://live.ottiptv.cc/yy/1354889009
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",小爽东北菇凉，求守护
+https://live.ottiptv.cc/yy/1382609850
+#EXTINF:-1 tvg-name="-4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/-4.png" group-title="精彩YY",不可能的任务-碟中谍4
+https://live.ottiptv.cc/yy/1354930967
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",时间的答卷第二季
+https://live.ottiptv.cc/yy/1382745106
+#EXTINF:-1 tvg-name="-" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/-.png" group-title="精彩YY",当旺爸爸-港剧
+https://live.ottiptv.cc/yy/1354936208
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",闲暇观看综艺
+https://live.ottiptv.cc/yy/1354932379
+#EXTINF:-1 tvg-name="Bill Burr" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Bill Burr.png" group-title="精彩YY",Bill Burr暴躁经典重现
+https://live.ottiptv.cc/yy/1382736917
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",异地演出，炸场奇遇
+https://live.ottiptv.cc/yy/1382735561
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",笑果伴酒，快乐中秋
+https://live.ottiptv.cc/yy/1382745092
+#EXTINF:-1 tvg-name="YY" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/YY.png" group-title="精彩YY",YY用户
+https://live.ottiptv.cc/yy/1382735545
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",心动信号甜蜜发酵
+https://live.ottiptv.cc/yy/1382736819
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",新时代农村青年的热血奋斗记
+https://live.ottiptv.cc/yy/1382736715
+#EXTINF:-1 tvg-name="Storm" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Storm.png" group-title="精彩YY",Storm憋了一年大招
+https://live.ottiptv.cc/yy/1382735559
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",跨越人鬼契约，宿命伙伴并肩作战
+https://live.ottiptv.cc/yy/1382749888
+#EXTINF:-1 tvg-name="TVB" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB.png" group-title="精彩YY",TVB力作：团圆
+https://live.ottiptv.cc/yy/1382745094
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",异类入侵高能反转
+https://live.ottiptv.cc/yy/1354936217
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",旺达·塞克丝：怼遍全场
+https://live.ottiptv.cc/yy/1354936221
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",警匪智力对决，谁才是最后的赢家？
+https://live.ottiptv.cc/yy/1354889042
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",当夫妻搭档为同事，鸡飞狗跳的故事开始了
+https://live.ottiptv.cc/yy/1354932402
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",天龙八部
+https://live.ottiptv.cc/yy/1355067965
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",开放麦现场惊现认亲
+https://live.ottiptv.cc/yy/1354936181
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",武状元落魄，神谕指引丐帮逆袭
+https://live.ottiptv.cc/yy/1382736882
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",快递小哥变身英雄
+https://live.ottiptv.cc/yy/1354932405
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",揭秘！经典传奇背后的未解之谜
+https://live.ottiptv.cc/yy/1382736912
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",英伦特工智斗谍影
+https://live.ottiptv.cc/yy/1382736841
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",颠覆秩序的声浪狂潮
+https://live.ottiptv.cc/yy/1354932426
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",我的男友超能力失控！甜蜜与危机的恋爱日常
+https://live.ottiptv.cc/yy/1354930915
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",重启
+https://live.ottiptv.cc/yy/1354888736
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",嗜血巨狼突袭人类
+https://live.ottiptv.cc/yy/1382735560
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",杰斯尼克暗黑我思我祷
+https://live.ottiptv.cc/yy/1354658051
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",最佳时机：命运转角的最佳抉择与奔赴
+https://live.ottiptv.cc/yy/1354936207
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",热烈的玫瑰
+https://live.ottiptv.cc/yy/1382736798
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",孤胆英雄以一敌百，热血爆燃格斗盛宴
+https://live.ottiptv.cc/yy/1354936136
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",龙师傅来接招
+https://live.ottiptv.cc/yy/1354889015
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",忠犬救主，一段感动人心的陪伴之旅
+https://live.ottiptv.cc/yy/1382736719
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",天龙八部（国语版）
+https://live.ottiptv.cc/yy/1382736855
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",打破第四面墙
+https://live.ottiptv.cc/yy/1382745090
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",小姐姐能打十个？神勇女侠颠覆你的认知！
+https://live.ottiptv.cc/yy/1354933556
+#EXTINF:-1 tvg-name="APP" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/APP.png" group-title="精彩YY",手机APP掌控人生
+https://live.ottiptv.cc/yy/1382736874
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",梅超风往事
+https://live.ottiptv.cc/yy/1382745190
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",民国恋情：乱世中一朵兰花的爱与挣扎
+https://live.ottiptv.cc/yy/1354926622
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",追踪神秘狐影
+https://live.ottiptv.cc/yy/1382749953
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",战火中的兄弟情义
+https://live.ottiptv.cc/yy/1382736844
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",萌娃七宝乌龙不断，笑料百出的家庭大战
+https://live.ottiptv.cc/yy/1354930903
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",一段关于救赎与坚守的西部传奇
+https://live.ottiptv.cc/yy/1382741640
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",乔·科伊席卷西雅图
+https://live.ottiptv.cc/yy/1382749911
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",憨夫憨妇闯情关
+https://live.ottiptv.cc/yy/1382735581
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",全村一起搞艺术
+https://live.ottiptv.cc/yy/1354936210
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",体验另一种生活！
+https://live.ottiptv.cc/yy/1354936229
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",女婿翻身大战岳母，家庭地位争夺爆笑开演
+https://live.ottiptv.cc/yy/1354930945
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",跨国生死救援！毒枭围困中的绝地反击
+https://live.ottiptv.cc/yy/1354926643
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",大闹三界奇幻冒险
+https://live.ottiptv.cc/yy/1382736804
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",音乐才女与霸道总裁的治愈之恋
+https://live.ottiptv.cc/yy/1382735573
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",赵牡丹，辛辣开麦
+https://live.ottiptv.cc/yy/1382736893
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",戴夫吐槽晕头转向的时代
+https://live.ottiptv.cc/yy/1382736869
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",跨越时空的誓言，此生只为你守候
+https://live.ottiptv.cc/yy/1382749912
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",感人至深！孝子之举撼动天地
+https://live.ottiptv.cc/yy/1382736857
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",未来中国
+https://live.ottiptv.cc/yy/1354932429
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",小小心事，笑着流泪
+https://live.ottiptv.cc/yy/1382736852
+#EXTINF:-1 tvg-name=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ .png" group-title="精彩YY",当老师患有妥瑞氏症，她如何拯救 “垫底班”？
+https://live.ottiptv.cc/yy/1382745181
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",暗恋成真青春纯爱
+https://live.ottiptv.cc/yy/1382736817
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",王牌保镖在此
+https://live.ottiptv.cc/yy/1382749913
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",许光汉主演喜剧大片
+https://live.ottiptv.cc/yy/1382736825
+#EXTINF:-1 tvg-name="2018" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2018.png" group-title="精彩YY",经典传奇2018
+https://live.ottiptv.cc/yy/1382745189
+#EXTINF:-1 tvg-name="2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2.png" group-title="精彩YY",硬汉搭档扫黑，致命武器2
+https://live.ottiptv.cc/yy/1382736865
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="精彩YY",为妈妈点赞
+https://live.ottiptv.cc/yy/1382745098
