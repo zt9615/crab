@@ -93,3 +93,9 @@ http://123.57.24.86:5678/955227985
 http://123.57.24.86:5678/955227996
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",最强综艺趴
 http://101.35.8.10:1111/629942228
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",辽宁公共频道
+http://101.35.8.10:1111/962045223
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",辽宁生活频道
+http://101.35.8.10:1111/962045226
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="咪咕央卫",辽宁影视剧频道
+http://101.35.8.10:1111/962067517
