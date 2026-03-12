@@ -398,15 +398,6 @@ CHC影迷电影,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227490/ind
 金鹰卡通,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226158/index.m3u8
 
 
-购物频道,#genre#
-央广购物,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227105/index.m3u8
-家有购物,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226985/index.m3u8
-好享购物,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226663/index.m3u8
-聚鲨环球精选,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227044/index.m3u8
-优购物,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227335/index.m3u8
-家庭理财,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
-宜佳购物,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8
-宜佳购物,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227309/index.m3u8
 
 
 咪视界,#genre#
@@ -442,3 +433,4 @@ CHC影迷电影,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227490/ind
 咪视界30,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
 咪视界31,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
 咪视界32,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
+
