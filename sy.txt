@@ -395,6 +395,15 @@ CGTN,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 
 
 地方频道,#genre#
+
+CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
+Cctv1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8
+Cctv1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226721/index.m3u8
+Cctv1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226998/index.m3u8
+Cctv1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
+Cctv1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227209/index.m3u8
+
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226703/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/
 辽宁卫视,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
 辽宁卫视,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227609/index.m3u8
 辽宁卫视,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
@@ -496,5 +505,6 @@ CHC影迷电影,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227490/ind
 咪视界30,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
 咪视界31,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
 咪视界32,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
+
 
 
