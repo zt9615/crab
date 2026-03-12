@@ -249,28 +249,3 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226148/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226147/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226854/index.m3u8
 #EXTINF:-1 tvg-name="Chongqing" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" group-title="辽宁移动(内)",重庆卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226169/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226868/index.m3u8
-#EXTINF:-1 tvg-name="ymkt" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ymkt.png" group-title="辽宁移动(内)",优漫卡通
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226149/index.m3u8
-#EXTINF:-1 tvg-name="kakushaoer" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/kakushaoer.png" group-title="辽宁移动(内)",卡酷少儿
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226157/index.m3u8
-#EXTINF:-1 tvg-name="Hunan10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan10.png" group-title="辽宁移动(内)",金鹰卡通
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226158/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="辽宁移动(内)",CGTN
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="辽宁移动(内)",好享购物
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226663/index.m3u8
-#EXTINF:-1 tvg-name="Guangdong14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong14.png" group-title="辽宁移动(内)",嘉佳卡通
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226744/index.m3u8
-#EXTINF:-1 tvg-name="ymkt" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ymkt.png" group-title="辽宁移动(内)",优漫卡通
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226768/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="辽宁移动(内)",家有购物
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226985/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="辽宁移动(内)",聚鲨环球精选
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227044/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="辽宁移动(内)",央广购物
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227105/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="辽宁移动(内)",西藏藏语频道
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227157/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="辽宁移动(内)",优购物
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227335/index.m3u8
-
