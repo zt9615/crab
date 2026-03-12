@@ -249,47 +249,38 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226148/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226147/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226854/index.m3u8
 #EXTINF:-1 tvg-name="Chongqing" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" group-title="辽宁移动(内)",重庆卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226169/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226868/index.m3u8
-
-
 #EXTINF:-1 group-title="辽宁-沈阳",沈阳新闻综合 (线路1)
 http://[2409:8087:3e01:31::25]:1010/88888888/24/2000000001/index.m3u8
 #EXTINF:-1 group-title="辽宁-沈阳",沈阳新闻综合 (线路2)
 http://[2409:8087:3e01:31::21]:1010/88888888/24/1/index.m3u8
 #EXTINF:-1 group-title="辽宁-沈阳",沈阳生活频道
 http://[2409:8087:3e01:31::25]:1010/88888888/24/2000000002/index.m3u8
-
 #EXTINF:-1 group-title="辽宁-大连",大连新闻综合 (线路1)
 http://[2409:8087:3e01:31::25]:1010/88888888/24/2000000008/index.m3u8
 #EXTINF:-1 group-title="辽宁-大连",大连新闻综合 (线路2)
 http://[2409:8087:3e01:31::21]:1010/88888888/24/8/index.m3u8
 #EXTINF:-1 group-title="辽宁-大连",大连生活频道
 http://[2409:8087:3e01:31::25]:1010/88888888/24/2000000009/index.m3u8
-
 #EXTINF:-1 group-title="辽宁-鞍山",鞍山新闻综合 (线路1)
 http://[2409:8087:3e01:31::25]:1010/88888888/24/2000000011/index.m3u8
 #EXTINF:-1 group-title="辽宁-鞍山",鞍山新闻综合 (线路2)
 http://[2409:8087:3e01:31::21]:1010/88888888/24/11/index.m3u8
-
 #EXTINF:-1 group-title="辽宁-抚顺",抚顺新闻综合 (线路1)
 http://[2409:8087:3e01:31::25]:1010/88888888/24/2000000014/index.m3u8
 #EXTINF:-1 group-title="辽宁-抚顺",抚顺新闻综合 (线路2)
 http://[2409:8087:3e01:31::21]:1010/88888888/24/14/index.m3u8
-
 #EXTINF:-1 group-title="辽宁-本溪",本溪新闻综合 (线路1)
 http://[2409:8087:3e01:31::25]:1010/88888888/24/2000000017/index.m3u8
 #EXTINF:-1 group-title="辽宁-本溪",本溪新闻综合 (线路2)
 http://[2409:8087:3e01:31::21]:1010/88888888/24/17/index.m3u8
-
 #EXTINF:-1 group-title="辽宁-丹东",丹东新闻综合 (线路1)
 http://[2409:8087:3e01:31::25]:1010/88888888/24/2000000020/index.m3u8
 #EXTINF:-1 group-title="辽宁-丹东",丹东新闻综合 (线路2)
 http://[2409:8087:3e01:31::21]:1010/88888888/24/2000000021/index.m3u8
-
 #EXTINF:-1 group-title="辽宁-锦州",锦州新闻综合 (线路1)
 http://[2409:8087:3e01:31::25]:1010/88888888/24/2000000023/index.m3u8
 #EXTINF:-1 group-title="辽宁-锦州",锦州新闻综合 (线路2)
 http://[2409:8087:3e01:31::21]:1010/88888888/24/23/index.m3u8
-
 #EXTINF:-1 group-title="辽宁-营口",营口新闻综合 (线路1)
 http://[2409:8087:3e01:31::25]:1010/88888888/24/2000000026/index.m3u8
 #EXTINF:-1 group-title="辽宁-营口",营口新闻综合 (线路2)
@@ -324,4 +315,5 @@ http://[2409:8087:3e01:31::21]:1010/88888888/24/41/index.m3u8
 http://[2409:8087:3e01:31::25]:1010/88888888/24/2000000044/index.m3u8
 #EXTINF:-1 group-title="辽宁-葫芦岛",葫芦岛新闻综合 (线路2)
 http://[2409:8087:3e01:31::21]:1010/88888888/24/44/index.m3u8
+
 
