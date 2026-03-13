@@ -1030,22 +1030,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227300/index.m3u8
 #EXTINF:-1 group-title="少儿频道" tvg-name="金鹰卡通",金鹰卡通
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226158/index.m3u8
 
-#EXTINF:-1 group-title="购物频道" tvg-name="央广购物",央广购物
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227105/index.m3u8
-#EXTINF:-1 group-title="购物频道" tvg-name="家有购物",家有购物
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226985/index.m3u8
-#EXTINF:-1 group-title="购物频道" tvg-name="好享购物",好享购物
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226663/index.m3u8
-#EXTINF:-1 group-title="购物频道" tvg-name="聚鲨环球精选",聚鲨环球精选
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227044/index.m3u8
-#EXTINF:-1 group-title="购物频道" tvg-name="优购物",优购物
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227335/index.m3u8
-#EXTINF:-1 group-title="购物频道" tvg-name="家庭理财",家庭理财
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
-#EXTINF:-1 group-title="购物频道" tvg-name="宜佳购物",宜佳购物
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8
-#EXTINF:-1 group-title="购物频道" tvg-name="宜佳购物",宜佳购物
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227309/index.m3u8
 
 #EXTINF:-1 group-title="咪视界" tvg-name="咪视界01",咪视界01
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227439/index.m3u8
@@ -1111,6 +1095,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
 #EXTINF:-1 group-title="咪视界" tvg-name="咪视界32",咪视界32
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
+
 
 
 
